@@ -7,7 +7,7 @@ This module handles user login and sign-up processes. It ensures secure access t
 - Deposit: 
 This module allows users to deposit money into their account, from which cash is converted into data on the app
 - Withdraw
-This module allows users to withdraw existing money from their account. When withdrawing, the withdrawal amount must be less than or equal to the existing balance.- Transfer
+This module allows users to withdraw existing money from their account. When withdrawing, the withdrawal amount must be less than or equal to the existing balance.
 - Past Transaction
 This module supports users in retrieving old transactions, helping users manage finances
 - Logout: 
