@@ -16,4 +16,8 @@ This module is used to exit the app interface and return to the login interface
 - Java language using Intellij IDE design the interface for users from the database and application logic flow
 - MySQL for storing, retrieving data and create diagram from the database
 - Java JDBC to connect a database from MySQL to the GUI.
+### How to run the app
+- Create the database in MySQL followed by the database diagram
+- Connect MySQL and Intellij IDE by mysql-connector-j-8.1.0.jar
+- Run the AppLauncher.java
 
